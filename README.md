@@ -3,8 +3,7 @@
 Simple data structure for storing graphs of edges and nodes and attributes.
 
 [![Build Status](https://travis-ci.org/dobbs/edgi.png?branch=master)](https://travis-ci.org/dobbs/edgi) 
-
-[![Coverage Status](https://coveralls.io/repos/dobbs/edgi/badge.png)](https://coveralls.io/r/dobbs/edgi)
+[![Coverage Status](https://img.shields.io/coveralls/dobbs/edgi.svg)](https://coveralls.io/r/dobbs/edgi?branch=master)
 
 ## Installation
 
