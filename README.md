@@ -2,6 +2,10 @@
 
 Simple data structure for storing graphs of edges and nodes and attributes.
 
+[![Build Status](https://travis-ci.org/dobbs/edgi.png?branch=master)](https://travis-ci.org/dobbs/edgi) 
+
+[![Coverage Status](https://coveralls.io/repos/dobbs/edgi/badge.png)](https://coveralls.io/r/dobbs/edgi)
+
 ## Installation
 
 Add this line to your application's Gemfile:
