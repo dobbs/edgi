@@ -8,7 +8,7 @@ module Edgi
     end
 
     def [](attribute)
-      @options.fetch(attribute)
+      @options.fetch(attribute, nil)
     end
   end
 end
